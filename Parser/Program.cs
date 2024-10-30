@@ -43,14 +43,12 @@ public class RobloxUserIdParser
         {
             using (StreamWriter writer = new StreamWriter(outputPath))
             {
-                writer.WriteLine("local module = {");
+                writer.WriteLine("{");
                 foreach (string line in processedLines)
                 {
                     writer.WriteLine(line);
                 }
                 writer.WriteLine("}");
-                writer.WriteLine("");
-                writer.WriteLine("return module");
             }
             Console.WriteLine("Successfully processed and wrote user IDs to output file.");
         }
