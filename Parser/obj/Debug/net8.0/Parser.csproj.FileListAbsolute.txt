@@ -1,0 +1,15 @@
+/workspaces/ERPListParser/Parser/bin/Debug/net8.0/Parser
+/workspaces/ERPListParser/Parser/bin/Debug/net8.0/Parser.deps.json
+/workspaces/ERPListParser/Parser/bin/Debug/net8.0/Parser.runtimeconfig.json
+/workspaces/ERPListParser/Parser/bin/Debug/net8.0/Parser.dll
+/workspaces/ERPListParser/Parser/bin/Debug/net8.0/Parser.pdb
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/Parser.AssemblyInfoInputs.cache
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/Parser.AssemblyInfo.cs
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/Parser.csproj.CoreCompileInputs.cache
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/Parser.sourcelink.json
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/Parser.dll
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/refint/Parser.dll
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/Parser.pdb
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/Parser.genruntimeconfig.cache
+/workspaces/ERPListParser/Parser/obj/Debug/net8.0/ref/Parser.dll
