@@ -73,6 +73,6 @@ public class RobloxUserIdParser
         }
 
         // Add quotes and comma
-        return "\"" + line + "\",";
+        return "\t\"" + line + "\",";
     }
 }
