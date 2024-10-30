@@ -1,5 +1,5 @@
 -- ModuleScript begin!
-local module = {
+_G.list = {
 	"747956308x",
 	"73654220x",
 	"752039088x",
