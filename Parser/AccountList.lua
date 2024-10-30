@@ -1,5 +1,5 @@
 -- ModuleScript begin!
-return {
+local list = {
 	"747956308x",
 	"73654220x",
 	"752039088x",
@@ -17470,4 +17470,6 @@ return {
 	"408099236x",
 	"162580266x",
 }
+
+return list
 -- Done.
