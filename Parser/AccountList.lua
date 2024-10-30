@@ -1,5 +1,5 @@
 -- ModuleScript begin!
-_G.list = {
+return {
 	"747956308x",
 	"73654220x",
 	"752039088x",
